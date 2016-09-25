@@ -63,7 +63,7 @@ window.Modernizr = (function( window, document, undefined ) {
           }
       }
 
-                style = ['&#173;','<style id="s', mod, '">', rule, '</style>'].join('');
+                style = ['&#F4FA58;','<style id="s', mod, '">', rule, '</style>'].join('');
       div.id = mod;
           (body ? div : fakeBody).innerHTML += style;
       fakeBody.appendChild(div);

@@ -14,22 +14,23 @@
 
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondo.jpg);
+/*background-image: url(../img/fondo1.jpg);*/
 background-repeat: no-repeat;
 background-size: cover;
+background-color: #FFBF00;
 }
 
 h1{
 font-family: 'Shadows Into Light', cursive;
-color: white;
-margin-left: 10px;
-font-size: 60px;
+color: #0431B4;
+margin-left:20px;
+font-size: 20;
 text-align: center; 
 }
 
 h2{
 font-family: 'Indie Flower', cursive;
-color: white;
+color: #0431B4;
 margin-left: 10px;
 font-size: 20px;
 text-align: left; 
@@ -37,7 +38,7 @@ text-align: left;
 
 h3{
 font-family: 'Shadows Into Light', cursive;;
-color: white;
+color: #0431B4;
 font-size: 30px;
 text-align: center; 
 }
@@ -52,7 +53,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: orange;
 border-radius: 10px;
 
 }
@@ -94,7 +95,7 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: maroon;
+background: #FFBF00;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
